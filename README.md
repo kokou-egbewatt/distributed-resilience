@@ -16,6 +16,7 @@ This repository covers several patterns implemented in Golang which have been de
 
 - [Timeout](./timeout/readme.md)
 - [Retry](./retry/readme.md)
+- [Circuit Breaker](./circuitbreaker/readme.md)
 
 # **References**
 
