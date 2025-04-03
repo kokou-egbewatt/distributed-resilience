@@ -15,6 +15,7 @@ Distributed Systems need to be able to gracefully handle failures and recover fr
 This repository covers several patterns implemented in Golang which have been designed to handle resilience in distributed environments.
 
 - [Timeout](./timeout/readme.md)
+- [Retry](./retry/readme.md)
 
 # **References**
 
